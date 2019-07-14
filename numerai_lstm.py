@@ -64,7 +64,7 @@ def main():
     
     print("Training...")
     # Model is fit to the training data
-    regressor.fit(X, Y)
+    regressor.fit(X_train, Y_train)
 
     print("Predicting...")
     # The trained model is used to make predictions on the numerai_tournament_data
