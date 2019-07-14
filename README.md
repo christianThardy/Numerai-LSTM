@@ -20,12 +20,12 @@ movement of their stocks based on the Opening and High price of the original ind
   <img src="https://user-images.githubusercontent.com/29679899/61179349-91d4d000-a5ce-11e9-9c13-7175909e69e3.png">
 </p>
 
-On the Delphi/Aptiv data, the model had a final loss of 1e-2 at 140 epochs:
+On the Delphi/Aptiv data, the model had a final loss of <b>1e-2</b> at <b>140</b> epochs:
 <p align="center">
   <img src="https://media.giphy.com/media/ZBVQCX7KA2qSOwMLEf/giphy.gif">
 </p>
 
-But the model was capable of converging at 35 epochs with good results:
+But the model was capable of converging at <b>35</b> epochs with good results:
 
 <p align="center">
   <br>
