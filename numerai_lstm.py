@@ -55,7 +55,7 @@ def main():
                                               
     regressor.summary()       
     # Loss and other metrics recorded at the end of each epoch
-    history = regressor.fit(X, Y, epochs = 1, batch_size = 32, validation_split = 0.05) # callbacks = callbacks_list
+    history = regressor.fit(X_train, Y_train, epochs = 1, batch_size = 32, validation_split = 0.05) # callbacks = callbacks_list
     # Keys that allow training and validation set to evaluate 
     # The optimized loss of fitting to the model
     print(history.history['loss'])
