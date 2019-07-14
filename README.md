@@ -11,7 +11,7 @@ predict the movement of financial markets.
 I used an LSTM-RNN for regression analysis on Numerai's proprietary data and I used the same model to predict
 the movement of Delphi Technologies and their split-off, Aptiv PLC. 
 
-Delphi's <a href="http://blog.aylien.com/overview-word-embeddings-history-word2vec-cbow-glove" title="aylien.com" rel="nofollow">split-off</a></li> in December 2017 altered the company's original S & P 500 index. 
+Delphi's split-off[<a href="http://blog.aylien.com/overview-word-embeddings-history-word2vec-cbow-glove" title="aylien.com" rel="nofollow">1</a></li>] in December 2017 altered the company's original S & P 500 index. 
 I recovered the data Delphi lost after the split and merged it into one dataset in an attempt to accurately predict the 
 movement of their stocks based on the Opening and High price of the original index.
 
