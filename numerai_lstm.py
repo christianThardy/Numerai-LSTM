@@ -25,6 +25,7 @@ def main():
     # Creating a data structure with 120 timesteps and 1 output
     X_train = []
     Y_train = []
+    
     for i in range(360, 393613): 
         X_train.append(X[i-360:i, 0])
         Y_train.append(Y[i, 0])
