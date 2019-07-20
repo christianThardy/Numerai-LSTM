@@ -39,7 +39,7 @@ The model was validated on Delphi/Aptiv's Open-High price from 4/15/18 to 5/20/1
   <img src="https://user-images.githubusercontent.com/29679899/61582707-3f2e7300-aafc-11e9-9f88-8eac855fde62.png">
 </p>
 
-The validation set converged at <b>60</b> epochs:
+The validation set converged with a final loss of <b>1e-2</b> at <b>60</b> epochs:
 
 <p align="center">
   <br>
