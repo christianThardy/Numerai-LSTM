@@ -32,7 +32,7 @@ And with better parameter tuning/reducing the architecture the model was able to
 </p></br>
 
 
-The model was validated on Delphi/Aptiv's Open-High price from 4/15/18 to 5/20/18: 
+The model was validated on Delphi/Aptiv's Open-High price from 5/9/18 to 5/20/18: 
 
 <p align="center">
   <br>
