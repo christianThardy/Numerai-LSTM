@@ -12,7 +12,7 @@ I used an LSTM-RNN for regression analysis on Numerai's proprietary data and I u
 the stock movement of Delphi Technologies and their split-off, Aptiv PLC. 
 
 Delphi's split-off[<a href="https://www.investopedia.com/terms/s/split-off.asp" title="investopedia.com" rel="nofollow">1</a></li>] in December 2017 altered the company's original S & P 500 index. 
-I recovered the data Delphi lost after the split and merged it into one dataset in an attempt to accurately predict the directinoal movement of their stock prices based on the Opening and High price of the original index.
+I recovered the data Delphi lost after the split and merged it into one dataset to predict the directional movement of their stock prices based on the Opening and High price of the original index.
 
 <p align="center">
   <br>
