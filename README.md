@@ -24,7 +24,7 @@ On the Delphi/Aptiv data, the model had a final loss of <b>1e-2</b> at <b>140</b
   <img src="https://media.giphy.com/media/ZBVQCX7KA2qSOwMLEf/giphy.gif">
 </p>
 
-And with better parameter tuning/reducing the architecture the model was able to converge to the training data at <b>35</b> epochs with good results:
+And with better parameter tuning the model was able to converge to the training data at <b>35</b> epochs with good results:
 
 <p align="center">
   <br>
