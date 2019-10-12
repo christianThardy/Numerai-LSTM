@@ -46,7 +46,7 @@ The validation set converged with a final loss of <b>1e-2</b> at <b>60</b> epoch
   <img src="https://media.giphy.com/media/UsNOWnGkGcaVkgCT3t/giphy.gif">
 </p>
 
-And was able to find an approximation with minimal overfitting:
+The model almost found an approximation, but it kept overfitting and I could not get it to generalize to the test set.
 
 <p align="center">
   <br>
