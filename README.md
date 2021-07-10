@@ -5,7 +5,7 @@
 
 # Numerai LSTM
 
-Numerai is an AI-run, crowd/open-sourced hedge fund/trading platform where competitors try to 
+<a href="https://numer.ai/Numerai" title="numer.ai" rel="nofollow">Numerai</a></li> is an AI-run, crowd/open-sourced hedge fund/trading platform where competitors try to 
 predict the movement of financial markets. 
 
 I used an LSTM-RNN for regression analysis on Numerai's proprietary data and I used the same model to predict
